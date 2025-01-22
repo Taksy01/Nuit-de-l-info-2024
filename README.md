@@ -1,73 +1,9 @@
-# Starter HTML basé sur Vite JS
+# Nuit de l'info 2024
+Site web réalisé lors de la nuit de l'info 2024
+# Sujet
+Créer une application web éducative et interactive qui représente les parallèles entre les systèmes humains etles systèmes océaniques
+lien : https://www.nuitdelinfo.com/materiel_communication/2024/La%20Nuit%20de%20l’Info%202024.pdf
 
-Ce projet est un starter HTML. Il utilise Vite JS pour un développement rapide et moderne.
+# Nom d'équipe : Les Rhododendron
 
-## Structure du projet
-
-```
-starter-html/
-├── index.html
-├── src/
-│   ├── main.js
-│   ├── style.css
-├── public/
-│   └── assets/
-│       └── logo.png
-├── package.json
-└── vite.config.js
-```
-
-## Prérequis
-
-- Node.js (version 14 ou supérieure)
-- npm (version 6 ou supérieure) ou yarn
-
-## Installation
-
-1. Clonez le dépôt :
-    ```bash
-    git clone https://github.com/marcelguillaume/starter-html.git
-    ```
-2. Accédez au répertoire du projet :
-    ```bash
-    cd starter-html
-    ```
-3. Installez les dépendances :
-    ```bash
-    npm install
-    ```
-    ou
-    ```bash
-    yarn install
-    ```
-
-## Développement
-
-Pour démarrer le serveur de développement, exécutez :
-```bash
-npm run dev
-```
-ou
-```bash
-yarn dev
-```
-Le projet sera accessible à l'adresse `http://localhost:5173`.
-
-## Construction
-
-Pour construire le projet pour la production, exécutez :
-```bash
-npm run build
-```
-ou
-```bash
-yarn build
-```
-Les fichiers de sortie seront générés dans le répertoire `dist`.
-
-## Licence
-
-Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de détails.
-
-## Auteur
-Guillaume Marcel
+# 1ère place remportée sur le Défi "Osez défier le GRINCH !!!"
